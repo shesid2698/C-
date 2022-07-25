@@ -1,0 +1,8 @@
+C:\C#練習\猜數字\猜數字改良版\bin\Debug\猜數字改良版.exe.config
+C:\C#練習\猜數字\猜數字改良版\bin\Debug\猜數字改良版.exe
+C:\C#練習\猜數字\猜數字改良版\bin\Debug\猜數字改良版.pdb
+C:\C#練習\猜數字\猜數字改良版\obj\Debug\猜數字改良版.csproj.AssemblyReference.cache
+C:\C#練習\猜數字\猜數字改良版\obj\Debug\猜數字改良版.csproj.SuggestedBindingRedirects.cache
+C:\C#練習\猜數字\猜數字改良版\obj\Debug\猜數字改良版.csproj.CoreCompileInputs.cache
+C:\C#練習\猜數字\猜數字改良版\obj\Debug\猜數字改良版.exe
+C:\C#練習\猜數字\猜數字改良版\obj\Debug\猜數字改良版.pdb
