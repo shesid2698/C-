@@ -20,18 +20,21 @@ namespace 猜數字改良版
                 
                 Console.Write("請輸入數字 : ");
                 int input = int.Parse(Console.ReadLine());
- 
+                string tips = "";
                 if (input < ans)
                 {
-                    Console.WriteLine("再大一點");
+                    tips = "再大一點";
+                    Console.WriteLine(tips);
                 }
                 else if (input > ans)
                 {
-                    Console.WriteLine("再小一點");
+                    tips = "再小一點";
+                    Console.WriteLine(tips);
                 }
                 else
                 {
-                    Console.WriteLine("答對了");
+                    tips = "答對了";
+                    Console.WriteLine(tips);
                     win = false;
                     break;
                 }
